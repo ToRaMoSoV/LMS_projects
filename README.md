@@ -32,6 +32,7 @@ zxc25d/
 ### Установка зависимостей
 ```bash
 pip install arcade PyQt6
+pip install arcade arcade
 ```
 
 ### Запуск редактора карт
